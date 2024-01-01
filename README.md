@@ -1,2 +1,3 @@
-# DBMS_project
-Practice on Databases course
+# DBMS-project
+
+This project describes the model for the online clothing store.
